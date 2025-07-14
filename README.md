@@ -5,8 +5,10 @@ A web-based Sudoku solver built with HTML, CSS, and JavaScript. Users can input 
 This project is a fully functional Sudoku Solver built using HTML, CSS, and JavaScript. It provides a user-friendly web interface where users can input Sudoku puzzles manually or generate a predefined one. The solving logic is implemented using the classic backtracking algorithm, which ensures accurate and efficient solutions to valid puzzles.
 
 # 📸 Preview
- <img width="1920" height="1008" alt="Screenshot 2025-07-14 223022" src="https://github.com/user-attachments/assets/f216d312-f919-4c60-a627-fdd9860b614c" />
+
 <img width="1920" height="1008" alt="Screenshot 2025-07-14 223011" src="https://github.com/user-attachments/assets/f8f1403b-63e3-4b36-81ec-115472ee1481" />
+ <img width="1920" height="1008" alt="Screenshot 2025-07-14 223022" src="https://github.com/user-attachments/assets/f216d312-f919-4c60-a627-fdd9860b614c" />
+
 
 
 # 📌 Features
